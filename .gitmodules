@@ -1,0 +1,3 @@
+[submodule "PCB-design/library/interleaved-APFC_library"]
+	path = PCB-design/library/interleaved-APFC_library
+	url = https://github.com/declansl/kicad-library.git

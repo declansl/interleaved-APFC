@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "UCC28070")(type "KiCad")(uri "${KIPRJMOD}/library/interleaved-APFC_library/modules/UCC28070_SOIC-20/UCC28070DW.kicad_sym")(options "")(descr ""))
+)
