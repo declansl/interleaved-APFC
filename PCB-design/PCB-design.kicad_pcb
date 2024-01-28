@@ -79,7 +79,7 @@
 
   (footprint "UCC28070:SOIC127P1030X265-20N" (layer "F.Cu")
     (tstamp 84d59f00-900b-464a-bc26-23a402ec9c11)
-    (at 154.94 99.06)
+    (at 157.48 71.12)
     (attr smd)
     (fp_text reference "REF**" (at -2.685 -7.635) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
@@ -154,5 +154,14 @@
     (pad "20" smd roundrect (at 4.64 -5.715) (size 2.06 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.07)
       (solder_mask_margin 0.102) (tstamp 156a81eb-d384-4a55-b2fc-359a8712e72a))
   )
+
+  (gr_line (start 195.58 38.1) (end 96.52 38.1)
+    (stroke (width 0.2) (type default)) (layer "F.Cu") (tstamp 2b3690a6-57fe-4a03-8096-928a36c3eeea))
+  (gr_line (start 96.52 137.16) (end 195.58 137.16)
+    (stroke (width 0.2) (type default)) (layer "F.Cu") (tstamp 3632b55e-bfc6-4ed9-a060-fcc8b4be1af5))
+  (gr_line (start 96.52 38.1) (end 96.52 137.16)
+    (stroke (width 0.2) (type default)) (layer "F.Cu") (tstamp 3a03304e-6c4b-4ea9-af4c-054ed0a90e33))
+  (gr_line (start 195.58 137.16) (end 195.58 38.1)
+    (stroke (width 0.2) (type default)) (layer "F.Cu") (tstamp 461fdf47-fdf1-4c1e-9f9d-3aed4df361cb))
 
 )
